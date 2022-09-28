@@ -64,7 +64,9 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="18dp"
         android:layout_marginRight="18dp"
-        android:hint="Enter your username"/>
+        android:textColor="@color/black"
+        android:hint="Enter your username"
+        android:textColorHint="@color/grey"/>
 
     <TextView
         android:id="@+id/password"
@@ -87,7 +89,9 @@
         android:layout_marginLeft="18dp"
         android:layout_marginRight="18dp"
         android:inputType="textPassword"
-        android:hint="Enter your password"/>
+        android:textColor="@color/black"
+        android:hint="Enter your password"
+        android:textColorHint="@color/grey"/>
 
     <TextView
         android:id="@+id/forgot"
@@ -115,6 +119,7 @@
         android:padding="10dp"
         android:textSize="20dp"
         android:textAllCaps="false"
-        android:text="Log In" />
+        android:text="Log In"
+        android:textColor="@color/white"/>
 
 </LinearLayout>
