@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/SC Android Studio/Praktugas3/app/src/main/res/layout/activity_login.xml" value="0.13677536231884058" />
+        <entry key="..\:/SC Android Studio/Praktugas3/app/src/main/res/drawable/button_red.xml" value="0.1" />
+        <entry key="..\:/SC Android Studio/Praktugas3/app/src/main/res/drawable/button_red1.xml" value="0.1" />
+        <entry key="..\:/SC Android Studio/Praktugas3/app/src/main/res/drawable/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/SC Android Studio/Praktugas3/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/SC Android Studio/Praktugas3/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/SC Android Studio/Praktugas3/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
